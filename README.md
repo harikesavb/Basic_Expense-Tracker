@@ -23,7 +23,3 @@ This Expense Tracker is a simple tool built with HTML, CSS, and JavaScript to he
 - The JavaScript code handles transaction addition, deletion, and updates to the local storage.
 - Transactions are stored locally to maintain data persistence between sessions.
 
-## How to Run
-Simply open the `index.html` file in a web browser to start using the Expense Tracker.
-
-Feel free to enhance and customize the code to suit your preferences or integrate additional features!
